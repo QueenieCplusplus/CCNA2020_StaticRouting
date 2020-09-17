@@ -59,9 +59,9 @@ IP 的位址與子遮罩都攸關流量控制（分流）。
                              
                     Group of Workstations
                     
-                 |            |           |
-                PC 1         PC2          PC3
+                  |              |              |
+               My PC(admin)   Mail Server    Web Server
               
-        192.168.100.24      192.168.100.3    192.168.100.4             
+        192.168.100.24    192.168.100.3   192.168.100.4             
                              
                      192.168.100.1 (default GW)
