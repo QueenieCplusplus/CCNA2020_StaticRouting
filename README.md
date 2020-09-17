@@ -109,3 +109,8 @@ Router 1 (連接外網與內網的路由器)
 
     對外的網卡 > 設定在 eth1 介面
     而對內部的 > 設定在 eth0 介面 > 192.168.1.254 
+
+
+# 實際 CMD
+
+http://linux.vbird.org/linux_server/0230router.php#route_static
