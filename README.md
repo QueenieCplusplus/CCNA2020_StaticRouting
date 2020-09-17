@@ -96,3 +96,10 @@ My PC (admin)
     
     
 Router 2 (受保護內網的路由器)
+
+兩張 NIC
+
+    eth0: 192.168.1.100/24 (public ip)
+    eth1: 192.168.100.1/24 (private ip)
+
+            
