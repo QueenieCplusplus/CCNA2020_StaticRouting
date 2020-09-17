@@ -82,3 +82,17 @@ send response
           192.168.100.4               192.168.100.1              192.168.1.254
           192.168.100.1               192.168.1.254                  NAT
            
+
+# 靜態路由的設定
+
+
+My PC (admin)
+
+    IP: 192.168.100.24
+    netmask: 255.255.255.0
+    gateway: 192.168.100.1
+    hostname: clientlinux.centos.PkateQ
+    DNS: 168.95.1.1 (等待確認)
+    
+    
+Router 2 (受保護內網的路由器)
