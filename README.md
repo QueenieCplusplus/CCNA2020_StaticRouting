@@ -5,6 +5,8 @@
 
 # 架構圖範例
 
+IP 的位址與子遮罩都攸關流量控制。
+
 
 
                          Internet
@@ -41,5 +43,9 @@
                              |
                              
                     Group of Workstations
+                    
+                 |            |           |
+                PC 1         PC2          PC3
+              
                           
                              
