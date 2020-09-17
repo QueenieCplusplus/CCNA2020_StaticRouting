@@ -17,8 +17,10 @@
                               
                              |
                              
-                            SW
+                           Router
                             
                              |
                              
+                    Group of Workstations
+                          
                              
