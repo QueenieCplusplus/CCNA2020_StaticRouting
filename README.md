@@ -10,12 +10,16 @@
                          Internet
                          
                              |
+                             |
+                             |
                              
                              
-                           Router    -      SW   - workstations
+                           Router    -----------      SW   ----------   workstations
                        192.168.1.254 (private ip)
                             
                               
+                             |
+                             |
                              |
                              
                            Router
@@ -23,7 +27,17 @@
                        192.168.1.254 (default gW)
                        192.168.100.254 (private ip)
                        
+                       
+                             |
+                             |
+                             |
+                             
+                             
+                            SW
+                       
                             
+                             |
+                             |
                              |
                              
                     Group of Workstations
