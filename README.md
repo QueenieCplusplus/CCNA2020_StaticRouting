@@ -69,6 +69,13 @@ IP 的位址與子遮罩都攸關流量控制（分流）。
 # 發送回應和接收請求
 
 
+receive request
+
+           Web Server   <-----------   Router 2    <-----------   Router 1  <-----------  Internet
+          192.168.100.4               192.168.100.1              192.168.1.254
+          192.168.100.1               192.168.1.254                  NAT
+
+
 send response
 
             Web Server  ----------->   Router 2    ----------->   Router 1  ----------->  Internet
