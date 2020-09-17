@@ -24,6 +24,7 @@ IP 的位址與子遮罩都攸關流量控制（分流）。
                              
                            Router    -----------      SW   ----------   workstations
                        192.168.1.254 (private ip)
+                        NAT (public ip)
                             
                               
                              |
