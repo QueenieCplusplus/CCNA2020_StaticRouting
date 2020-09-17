@@ -113,4 +113,7 @@ Router 1 (連接外網與內網的路由器)
 
 # 實際 CMD
 
+再次感謝造福系統與網路後輩芸芸眾生的鳥哥！
+![bird](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_StaticRouting/master/鳥哥.png)
+
 http://linux.vbird.org/linux_server/0230router.php#route_static
